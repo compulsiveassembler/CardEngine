@@ -47,3 +47,4 @@ void Deck::print_used_cards()
 		std::cout << i << "\n";
 	}
 }
+
